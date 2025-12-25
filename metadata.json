@@ -1,0 +1,9 @@
+{
+  "name": "PlastiDex - Polymer Engineering Hub",
+  "short_name": "PlastiDex",
+  "description": "Professional encyclopedia and AI consultant for plastic materials and injection molding specs.",
+  "version": "3.5.0",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
